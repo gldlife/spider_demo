@@ -2,3 +2,5 @@
 1、[智联招聘职位爬虫](https://github.com/gldlife/spider_demo/blob/master/zhilianzhappin.py)
 
 2、[建筑英才职位爬虫](https://github.com/gldlife/spider_demo/blob/master/jianzhuyingcai.py)
+
+3、[51job招聘职位爬虫](https://github.com/gldlife/spider_demo/blob/master/51job.py)
